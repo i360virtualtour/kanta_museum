@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Kanta Museum, Kebbi]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by  I-360 LIMITED '+234 803 618 2894']]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+
+  <data name="en_pano43_title"><![CDATA[Front]]></data>
+  <data name="en_spotpoint5083_tooltip"><![CDATA[Kings Court]]></data>
+
+
+  <data name="en_pano45_title"><![CDATA[King's Court]]></data>
+  <data name="en_spotpoint5084_tooltip"><![CDATA[Court Yard]]></data>
+  <data name="en_spotpoint5085_tooltip"><![CDATA[Front]]></data>
+
+
+  <data name="en_pano47_title"><![CDATA[Court Yard]]></data>
+  <data name="en_spotpoint5086_tooltip"><![CDATA[Village Setting]]></data>
+  <data name="en_spotpoint5087_tooltip"><![CDATA[Hunting Weapons]]></data>
+  <data name="en_spotpoint5088_tooltip"><![CDATA[War Drum]]></data>
+  <data name="en_spotpoint5089_tooltip"><![CDATA[Cultural Art Gallery]]></data>
+  <data name="en_spotpoint5090_tooltip"><![CDATA[Ethnic Identity]]></data>
+  <data name="en_spotpoint5091_tooltip"><![CDATA[King's Court]]></data>
+  <data name="en_spotpoint5092_tooltip"><![CDATA[Weaponry]]></data>
+
+
+  <data name="en_pano49_title"><![CDATA[Ethnic Identity]]></data>
+  <data name="en_spotpoint5093_tooltip"><![CDATA[Court Yard]]></data>
+  <data name="en_spotpoint5094_tooltip"><![CDATA[Royal Cemetery]]></data>
+
+
+  <data name="en_pano53_title"><![CDATA[Royal Cemetery]]></data>
+  <data name="en_spotpoint5095_tooltip"><![CDATA[Ethnic Identity]]></data>
+
+
+  <data name="en_pano51_title"><![CDATA[Royal Cemetery 2]]></data>
+  <data name="en_spotpoint5098_tooltip"><![CDATA[Cultural Art Gallery]]></data>
+
+
+  <data name="en_pano55_title"><![CDATA[War Drums]]></data>
+  <data name="en_spotpoint5099_tooltip"><![CDATA[Court Yard]]></data>
+
+
+  <data name="en_pano65_title"><![CDATA[Cultural Art Gallery]]></data>
+  <data name="en_spotpoint5096_tooltip"><![CDATA[Cemetery]]></data>
+  <data name="en_spotpoint5097_tooltip"><![CDATA[Court Yard]]></data>
+
+
+  <data name="en_pano67_title"><![CDATA[Village Setting]]></data>
+  <data name="en_spotpoint5104_tooltip"><![CDATA[Court Yard]]></data>
+
+
+  <data name="en_pano57_title"><![CDATA[Hunting Weapons]]></data>
+  <data name="en_spotpoint5101_tooltip"><![CDATA[Court Yard]]></data>
+  <data name="en_spotpoint5102_tooltip"><![CDATA[Fish House]]></data>
+
+
+  <data name="en_pano59_title"><![CDATA[Fish House]]></data>
+  <data name="en_spotpoint5103_tooltip"><![CDATA[Court Yard]]></data>
+
+
+  <data name="en_pano69_title"><![CDATA[Weaponry]]></data>
+  <data name="en_spotpoint5100_tooltip"><![CDATA[Court Yard]]></data>
+
+
+  <data name="en_pano61_title"><![CDATA[Arugungu River]]></data>
+
+
+
+
+
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="en_controlBar_classichideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.i360limited.com/]]></data>
+  <data name="en_buttontooltip"><![CDATA[Locate on Map]]></data>
+  <data name="en_buttononclick117134websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[https://goo.gl/maps/5Jxv7e14rzvYde7c6]]></data>
+  <data name="en_buttononclick117134websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[]]></data>
+  <data name="en_button1tooltip"><![CDATA[Kanta Museum]]></data>
+  <data name="en_button1onclick118430websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[https://hometown.ng/listing-item/kanta-museum/]]></data>
+  <data name="en_button1onclick118430websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[]]></data>
+  <data name="en_button2tooltip"><![CDATA[Social Share]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[NIGERIAN TOURISM DEVELOPMENT CORPORATION (NTDC) ]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_button3tooltip"><![CDATA[]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title0"><![CDATA[Monument]]></data>
+  <data name="en_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery2fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery2close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery1fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery1close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery3fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery3close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery4fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery4close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery5fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery5close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery6fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery6close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery7fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery7close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery8fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery8close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery9fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery9close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery10fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery10close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery11fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery11close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery12fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery12close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano43_description"><![CDATA[<div>Welcome to KANTA MUSEUM Argungu Kebbi State, founded by Mahamadu Kanta the founder of Kebbi kingdom who ruled for 46 years (1515-1561). This monument was constructed in 1831 and was used as the palace by the Emir of Kebbi. In June 1958 it was converted to a museum, this museum now houses cultural and historical heritage of Kebbi State.</div><div><br></div><div>The Histories, Cultural Evolution, Growth and Identity of the people of Kebbi are preserved and promoted in this museum.</div><div><br></div><div>The ancient architectural beauty of the museum is maintained with minimal renovations and reconstruction. It retains its historic charm; and the view from outside is of ancient northern Nigerian structure and edifice.</div>]]></data>
+
+
+
+  <data name="en_pano45_description"><![CDATA[This is the Kings Court, in this chamber all the decision that affect the emirate are taken. The Court still retains all the relics of the past kings. The ancient throne, known as the Karaga, is preserved with the two council seats; their various traditional designs and patterns remain intact. Behind the throne of the king is the skin of a Lioness which stands for strength, on this skin hags two crossed golden sward which symbolises the strong Islamic faith in the emirate. Above the Lioness skin is the emir’s seal of office, beside the King’s throne is two (2) seats made for the most important counsellors in the emirate. Besides the lioness skin lays the Emir’s staff of office, behind the throne hags the most valuable material in the emirate called SAKALA in Hausa Language.]]></data>
+
+
+
+  <data name="en_pano47_description"><![CDATA[<div>The court yard serves as the waiting spot where consultations are made before procession into the Kings Court. Standing at this location one will be able access other section of the museum.</div><div><br></div><div>Tucked away in a town more famous for its fishing tradition, the Kanta Museum is the home of Argungu’s treasury and a citadel of history that is still preserved by the community in Kebbi State, in north-western Nigeria</div>]]></data>
+
+
+
+  <data name="en_pano49_description"><![CDATA[This unit depicts kebbi’s ethnic identity, on the clay walls hags the pictures of the major tribes found in Kebbi State, the tribes found in Kebbi are grouped into clans and they speak a common language known as Hausa. The different clans can be identified by their facial or tribal marks which are made in a particular direction or numbers.]]></data>
+
+
+
+  <data name="en_pano53_description"><![CDATA[The current Emir, Alhaji Samaila Mera, comes into the museum every Friday after the Jumat service to pay homage to his ancestors by sitting for a time on the ancient throne. Not surprising, since the museum also serves as a royal tomb; all past Emirs of Kebbi kingdom have been interred there. From Yakubu Nabame (who became the Sarkin Kebbi of Argungu in 1883), the storehouse of history and culture is also, at a basic level, a royal cemetery.]]></data>
+
+
+
+  <data name="en_pano51_description"><![CDATA[This is an extension of the Royal Cemetery, any Emir that passes away on the throne will be laid to rest at the royal cemetery section of this museum.]]></data>
+
+
+
+  <data name="en_pano55_description"><![CDATA[Also on display is a glass pedestal in the middle of this unit on which rest three huge war drums used by the Kabawa to announce war.]]></data>
+
+
+
+  <data name="en_pano65_description"><![CDATA[In this unit of the museum one will come in contact with the local products of blacksmiths (Kira—the use of iron to produce war and farming implements), “white-smiths” (Kira faii—the use of aluminium for the production of household utensils). Also on display are products of mat weaving, cloth weaving and pottery (Girin tokanin). Beautiful pots of various sizes, designs and patterns are on display.]]></data>
+
+
+
+  <data name="en_pano67_description"><![CDATA[This is a model village depicting the traditional settlement in kebbi. The structure at this location includes; Grain-ban, Huts with thatch roof, clay pots, mortar and pestle, and other relics of the past village settlements.]]></data>
+
+
+
+  <data name="en_pano57_description"><![CDATA[Here one will see weapons used by hunters and the relics of animal caught by the hunters.]]></data>
+
+
+
+  <data name="en_pano59_description"><![CDATA[As one moves out of the traditional building to the permanent structures, one finds a display of various fishing implements in room number six in very large standard glass showcases. And these implements include the fishing net, and other smaller traps, also in this section is the fish catalogue containing all the species of fish found in the Arugungu river.]]></data>
+
+
+
+  <data name="en_pano69_description"><![CDATA[<div>Adjoining the king’s court is the Kabi War Weapons Unit (Kabi is the Hausa pronunciation of Kebbi). Argungu arsenal relics are stored and preserved here. The weapons of past warfare, consisting of charms, spears, swords, wood, stones, bows and arrows and local guns, are displayed and hung in glistening glass showcases. Here, also, is a god said to have been brought to a war by Magaji Dankan, whose incantations were said to have poisoned the famous river Matan Fada for foreigners and enemies but left locals unharmed.</div><div><br></div><div>There are four original swords of immense value to Argungu’s history. The sword used by Kanta and the one he seized from his master are preserved alongside the judgement sword of Yakubu Nabame and that of Sama (son of Nabame, who fought a Sultan of Sokoto-led coalition, and was victorious).</div><div>One uniquely interesting weapon is the “bante,” which is also very prominent in Yoruba weaponry. According to the museum’s curator, the warrior that bears the “bante” becomes invisible.</div><div><br></div><div>There is also the famous Kabawa fetish a container which contains the mysterious medicinal stuff that was said to have been used by the Sarkin Ruwa (head of rivers) to turn the water of the Gulbin Kebbi river into fish in order to prevent their enemies from getting drinking water any time they staged an attach on Argungu town. Also on display here is the stone said to have been used by the Kebbi warriors for sharpening their swords just before they proceeded on to the battle field.</div>]]></data>
+
+
+
+
+
+</krpano>
